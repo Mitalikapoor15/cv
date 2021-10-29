@@ -1,0 +1,128 @@
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Ubuntu', sans-serif;
+  margin-bottom: 0;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 7px 0 0 0;
+  width: 5%;
+  border-color: grey;
+  height: 0;
+  margin-top: 100px;
+
+}
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 4rem;
+  color: #66BFBF;
+}
+
+.heading-text {
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.0rem;
+  color: #66BFBF;
+}
+
+h3 {
+  font-size: 1.3rem;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+.first-container {
+  background: #A1FFCE;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FAFFD1, #A1FFCE);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FAFFD1, #A1FFCE);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  top: 250px;
+}
+
+.middle-container {
+  background: #ECE9E6;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFFFFF, #ECE9E6);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  padding-bottom: 5px;
+  line-height: 2;
+}
+
+
+
+.my-skills {
+  margin-top: 0;
+  padding-top: 27px;
+}
+
+.image-profile {
+  margin-top: 50px;
+}
+
+.image-skills {
+  width: 25%;
+}
+
+#skillimg-1 {
+  float: left;
+  margin-right: 30px;
+}
+
+#skillimg-2 {
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+}
+
+#end-skill-p {
+  margin-bottom: 0;
+  padding-bottom: 30px;
+}
+
+
+
+.bottom-container {
+  background-color: #222831;
+  color: #D6D2C4;
+  margin: 10px auto 0 auto;
+  padding-top: 15px;
+  position: absolute;
+  width: 100%;
+}
+
+.footer-link{
+  margin-right: 20px;
+}
